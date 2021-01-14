@@ -1,0 +1,3 @@
+String final类：不可变的字符序列
+
+String对象的字符内容是存储在一个字符数组value[]中的；

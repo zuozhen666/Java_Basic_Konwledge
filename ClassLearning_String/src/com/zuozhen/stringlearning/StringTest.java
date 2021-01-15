@@ -25,7 +25,7 @@ public class StringTest {
         String s4 = "javaEE" + "hadoop";//1.字面量的连接就放在常量池里
         String s5 = s1 + "hadoop";
         String s6 = "javaEE" + s2;
-        String s7 = s1 + s2;//2.存在变量的就存放在堆空间
+        String s7 = s1 + s2;//2.存在变量的是在堆空间新new的
 
         System.out.println(s3 == s4);//true
         System.out.println(s3 == s5);//false
@@ -46,14 +46,15 @@ public class StringTest {
 
     面试题：
     String s = new String("abc");内存中创建了几个对象
-    两个：一个是堆空间中的new结构，另一个是char[]对应的常量池中的数据“abc”
+    两个：一个是堆空间中的结构，另一个是char[]对应的常量池中的数据“abc”
      */
     @Test
     public void test2() {
-        //数据位于方法区中的字符串常量池中，目的是共享
+        //数据声明在方法区中的字符串常量池中，目的是共享
         String s1 = "javaEE";
         String s2 = "javaEE";
-        //数据位于堆空间中，字符串非常量对象
+        //s3,s4保存的地址值，是数据在堆空间中开辟空间以后对应的地址值
+        //先堆，后指向常量池
         String s3 = new String("javaEE");
         String s4 = new String("javaEE");
 
@@ -81,7 +82,7 @@ public class StringTest {
         4.1当对字符串重新赋值时，需要重新指定内存区域重写，不能使用原有的value
         4.2当对现有字符串进行连接操作时，需要重新指定内存区域赋值
         4.3当调用String的replace方法修改字符或者字符串时也必须重新制定内存区域赋值
-    5.通过字面量的方式（区别于new）给一个字符串赋值，此时的字符串值声明在字符串常量池中
+    5.通过字面量的方式（区别于new给一个字符串赋值，此时的字符串值声明在字符串常量池中）
     6.字符串常量池中是不会存储相同内容字符串的
      */
     @Test

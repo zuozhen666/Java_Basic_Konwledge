@@ -10,6 +10,14 @@ public class StringTest {
     字符串拼接
      */
     @Test
+    public void test4() {
+        String s1 = "javaEEhadoop";
+        final String s2 = "javaEE";
+        String s4 = s2 + "hadoop";//s2视为常量
+        System.out.println(s1 == s4);//true
+    }
+
+    @Test
     public void test3() {
         String s1 = "javaEE";
         String s2 = "hadoop";

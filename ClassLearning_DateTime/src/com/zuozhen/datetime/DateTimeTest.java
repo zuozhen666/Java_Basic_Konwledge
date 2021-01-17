@@ -46,4 +46,12 @@ public class DateTimeTest {
         long time = System.currentTimeMillis();
         System.out.println(time);
     }
+
+    /*
+    练习：“三天打鱼两天晒网”判断未来的某一天是打鱼还是晒网，给定一个起始日期
+    总天数的计算：
+    方法一：(date2.getTime()-date1.getTime())/(1000*60*60*24)+1
+    方法二：。。。
+     */
+
 }

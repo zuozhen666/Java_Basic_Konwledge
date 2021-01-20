@@ -7,12 +7,34 @@ import java.util.Collection;
 import java.util.Iterator;
 
 /**
- * 集合元素的遍历：Iterator接口
+ * 集合元素（适用于Collection）的遍历：Iterator接口
  */
 public class IteratorTest {
     /*
     Iterator
      */
+    @Test
+    public void test1() {
+        Collection coll = new ArrayList();
+        coll.add(123);//包装类
+        coll.add(456);
+        coll.add(false);//包装类
+        coll.add(new String("Tom"));
+        coll.add(new Person("Jerry", 20));
+
+        Iterator iterator = coll.iterator();
+        while (iterator.hasNext()) {
+            Object obj = iterator.next();
+            if ("Tom".equals(obj)) {
+                iterator.remove();
+            }//删除集合中的元素，不同于集合里的remove
+        }
+        iterator = coll.iterator();
+        while (iterator.hasNext()) {
+            System.out.println(iterator.next());
+        }
+    }
+
     @Test
     public void test() {
         Collection coll = new ArrayList();

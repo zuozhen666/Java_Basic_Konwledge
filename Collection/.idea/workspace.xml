@@ -15,128 +15,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="750">
+      <file leaf-file-name="SetTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1.2_Set/src/com/zuozhen/set/SetTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="897">
+              <caret line="71" column="39" lean-forward="false" selection-start-line="71" selection-start-column="39" selection-end-line="71" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="CollectionTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/First_Collection/src/com/zuozhen/collection/CollectionTest.java">
+        <entry file="file://$PROJECT_DIR$/1_Collection/src/com/zuozhen/collection/CollectionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1420">
-              <caret line="23" column="3" lean-forward="false" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IteratorTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/First_Collection/src/com/zuozhen/collection/IteratorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ListTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Second_List/src/com/zuozhen/list/ListTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5524">
-              <caret line="9" column="40" lean-forward="false" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="question.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Second_List/src/com/zuozhen/list/question.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1136">
-              <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SetTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Third_Set/src/com/zuozhen/set/SetTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="688">
-              <caret line="20" column="24" lean-forward="false" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+            <state relative-caret-position="852">
+              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="31" selection-end-column="57" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="List.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/jdk1.8/src.zip!/java/util/List.java">
+      <file leaf-file-name="MapTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2_Map/src/com/zuozhen/map/MapTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40896">
-              <caret line="599" column="6" lean-forward="false" selection-start-line="599" selection-start-column="6" selection-end-line="599" selection-end-column="6" />
+            <state relative-caret-position="2033">
+              <caret line="33" column="31" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Vector.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/jdk1.8/src.zip!/java/util/Vector.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9088">
-              <caret line="155" column="11" lean-forward="false" selection-start-line="155" selection-start-column="11" selection-end-line="155" selection-end-column="11" />
-              <folding>
-                <element signature="e#5671#5672#0" expanded="true" />
-                <element signature="e#5695#5696#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/jdk1.8/src.zip!/java/util/LinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64610">
-              <caret line="969" column="0" lean-forward="false" selection-start-line="969" selection-start-column="0" selection-end-line="979" selection-end-column="5" />
-              <folding>
-                <element signature="e#11209#11210#0" expanded="true" />
-                <element signature="e#11247#11248#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArrayList.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/jdk1.8/src.zip!/java/util/ArrayList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32163">
-              <caret line="490" column="13" lean-forward="false" selection-start-line="490" selection-start-column="13" selection-end-line="490" selection-end-column="13" />
-              <folding>
-                <element signature="e#6252#6253#0" expanded="true" />
-                <element signature="e#6320#6321#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/First_Collection/src/com/zuozhen/collection/Person.java">
+        <entry file="file://$PROJECT_DIR$/1.2_Set/src/com/zuozhen/set/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1775">
-              <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-              <folding>
-                <element signature="e#403#404#0" expanded="true" />
-                <element signature="e#430#431#0" expanded="true" />
-                <element signature="e#470#471#0" expanded="true" />
-                <element signature="e#502#503#0" expanded="true" />
-                <element signature="e#529#530#0" expanded="true" />
-                <element signature="e#555#556#0" expanded="true" />
-                <element signature="e#590#591#0" expanded="true" />
-                <element signature="e#620#621#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="994">
+              <caret line="14" column="37" lean-forward="false" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -163,7 +79,9 @@
         <option value="$PROJECT_DIR$/First_Collection/src/com/zuozhen/collection/IteratorTest.java" />
         <option value="$PROJECT_DIR$/Second_List/src/com/zuozhen/list/question.java" />
         <option value="$PROJECT_DIR$/Second_List/src/com/zuozhen/list/ListTest.java" />
+        <option value="$PROJECT_DIR$/Third_Set/src/com/zuozhen/set/Person.java" />
         <option value="$PROJECT_DIR$/Third_Set/src/com/zuozhen/set/SetTest.java" />
+        <option value="$PROJECT_DIR$/First_Map/src/com/zuozhen/map/MapTest.java" />
       </list>
     </option>
   </component>
@@ -195,6 +113,8 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -206,63 +126,25 @@
             <path>
               <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
               <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="First_Collection" type="462c0819:PsiDirectoryNode" />
+              <item name="2_Map" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
               <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="First_Collection" type="462c0819:PsiDirectoryNode" />
+              <item name="2_Map" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
               <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="First_Collection" type="462c0819:PsiDirectoryNode" />
+              <item name="2_Map" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="collection" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="Second_List" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="Second_List" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="Second_List" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="list" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="Third_Set" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="Third_Set" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="Third_Set" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="set" type="462c0819:PsiDirectoryNode" />
+              <item name="map" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -286,7 +168,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.question">
+  <component name="RunManager" selected="JUnit.SetTest.question">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -326,31 +208,6 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="Second_List" />
       <envs />
-    </configuration>
-    <configuration name="CollectionTest.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.zuozhen.collection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="First_Collection" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.zuozhen.collection" />
-      <option name="MAIN_CLASS_NAME" value="com.zuozhen.collection.CollectionTest" />
-      <option name="METHOD_NAME" value="test4" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
     </configuration>
     <configuration name="IteratorTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
@@ -415,6 +272,31 @@
       <option name="PACKAGE_NAME" value="com.zuozhen.list" />
       <option name="MAIN_CLASS_NAME" value="com.zuozhen.list.ListTest" />
       <option name="METHOD_NAME" value="testMethod" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="SetTest.question" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.zuozhen.set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Third_Set" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.zuozhen.set" />
+      <option name="MAIN_CLASS_NAME" value="com.zuozhen.set.SetTest" />
+      <option name="METHOD_NAME" value="question" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -500,19 +382,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.CollectionTest.test4" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.IteratorTest.test" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.IteratorTest.test1" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.ListTest.testMethod" />
-      <item index="4" class="java.lang.String" itemvalue="Application.question" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.IteratorTest.test" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.IteratorTest.test1" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.ListTest.testMethod" />
+      <item index="3" class="java.lang.String" itemvalue="Application.question" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.SetTest.question" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.question" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.ListTest.testMethod" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.IteratorTest.test1" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.IteratorTest.test" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.CollectionTest.test4" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.SetTest.question" />
+        <item index="1" class="java.lang.String" itemvalue="Application.question" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.ListTest.testMethod" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.IteratorTest.test1" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.IteratorTest.test" />
       </list>
     </recent_temporary>
   </component>
@@ -536,20 +418,13 @@
       <workItem from="1611051911860" duration="3547000" />
       <workItem from="1611108173112" duration="10877000" />
       <workItem from="1611151351536" duration="998000" />
-      <workItem from="1611190617789" duration="3850000" />
+      <workItem from="1611190617789" duration="3955000" />
+      <workItem from="1611217710074" duration="1749000" />
+      <workItem from="1611222914889" duration="6669000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="IteratorTest_test - 2021.01.20 at 17h 28m 11s.xml">
-      <configuration name="IteratorTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IteratorTest_test - 2021.01.20 at 17h 30m 53s.xml">
-      <configuration name="IteratorTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IteratorTest_test - 2021.01.20 at 17h 31m 35s.xml">
-      <configuration name="IteratorTest.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="IteratorTest_test1 - 2021.01.20 at 17h 43m 14s.xml">
       <configuration name="IteratorTest.test1" configurationId="JUnit" />
     </history-entry>
@@ -571,9 +446,18 @@
     <history-entry file="ListTest_testMethod - 2021.01.20 at 21h 44m 11s.xml">
       <configuration name="ListTest.testMethod" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SetTest_question - 2021.01.21 at 18h 12m 50s.xml">
+      <configuration name="SetTest.question" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SetTest_question - 2021.01.21 at 18h 14m 50s.xml">
+      <configuration name="SetTest.question" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SetTest_question - 2021.01.21 at 18h 15m 07s.xml">
+      <configuration name="SetTest.question" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24817000" />
+    <option name="totallyTimeSpent" value="33340000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-16" y="-16" width="3872" height="2092" extended-state="7" />
@@ -581,17 +465,18 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965118" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3354651" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08488372" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08230563" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1077748" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24986595" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -603,7 +488,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965118" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -619,42 +503,67 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/First_Collection/src/com/zuozhen/collection/CollectionTest.java">
+    <entry file="file://$PROJECT_DIR$/1_Collection/src/com/zuozhen/collection/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1775">
+          <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <element signature="e#403#404#0" expanded="false" />
+            <element signature="e#430#431#0" expanded="false" />
+            <element signature="e#470#471#0" expanded="false" />
+            <element signature="e#502#503#0" expanded="false" />
+            <element signature="e#529#530#0" expanded="false" />
+            <element signature="e#555#556#0" expanded="false" />
+            <element signature="e#590#591#0" expanded="false" />
+            <element signature="e#620#621#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.2_Set/src/com/zuozhen/set/SetTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1420">
-          <caret line="23" column="3" lean-forward="false" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="40" />
+          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/First_Collection/src/com/zuozhen/collection/IteratorTest.java">
+    <entry file="file://$PROJECT_DIR$/1_Collection/src/com/zuozhen/collection/CollectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1420">
+          <caret line="23" column="3" lean-forward="false" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_Collection/src/com/zuozhen/collection/IteratorTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="355">
           <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Second_List/src/com/zuozhen/list/question.java">
+    <entry file="file://$PROJECT_DIR$/1.1_List/src/com/zuozhen/list/question.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1136">
           <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Second_List/src/com/zuozhen/list/ListTest.java">
+    <entry file="file://$PROJECT_DIR$/1.1_List/src/com/zuozhen/list/ListTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="355">
           <caret line="9" column="40" lean-forward="false" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -663,7 +572,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42529">
           <caret line="599" column="6" lean-forward="false" selection-start-line="599" selection-start-column="6" selection-end-line="599" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -671,10 +579,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11005">
           <caret line="155" column="11" lean-forward="false" selection-start-line="155" selection-start-column="11" selection-end-line="155" selection-end-column="11" />
-          <folding>
-            <element signature="e#5671#5672#0" expanded="true" />
-            <element signature="e#5695#5696#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -693,74 +597,70 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32163">
           <caret line="490" column="13" lean-forward="false" selection-start-line="490" selection-start-column="13" selection-end-line="490" selection-end-column="13" />
-          <folding>
-            <element signature="e#6252#6253#0" expanded="true" />
-            <element signature="e#6320#6321#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/First_Collection/src/com/zuozhen/collection/Person.java">
+    <entry file="file://$PROJECT_DIR$/1_Collection/src/com/zuozhen/collection/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1775">
           <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
           <folding>
-            <element signature="e#403#404#0" expanded="true" />
-            <element signature="e#430#431#0" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-            <element signature="e#502#503#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#555#556#0" expanded="true" />
-            <element signature="e#590#591#0" expanded="true" />
-            <element signature="e#620#621#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="false" />
+            <element signature="e#430#431#0" expanded="false" />
+            <element signature="e#470#471#0" expanded="false" />
+            <element signature="e#502#503#0" expanded="false" />
+            <element signature="e#529#530#0" expanded="false" />
+            <element signature="e#555#556#0" expanded="false" />
+            <element signature="e#590#591#0" expanded="false" />
+            <element signature="e#620#621#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Third_Set/src/com/zuozhen/set/SetTest.java">
+    <entry file="file://$PROJECT_DIR$/1.2_Set/src/com/zuozhen/set/SetTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1491">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_Collection/src/com/zuozhen/collection/CollectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1491">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="25" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/First_Collection/src/com/zuozhen/collection/CollectionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1491">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="25" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/First_Collection/src/com/zuozhen/collection/IteratorTest.java">
+    <entry file="file://$PROJECT_DIR$/1_Collection/src/com/zuozhen/collection/IteratorTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="355">
           <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Second_List/src/com/zuozhen/list/ListTest.java">
+    <entry file="file://$PROJECT_DIR$/1.1_List/src/com/zuozhen/list/ListTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5112">
           <caret line="76" column="7" lean-forward="false" selection-start-line="76" selection-start-column="7" selection-end-line="76" selection-end-column="7" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Second_List/src/com/zuozhen/list/question.java">
+    <entry file="file://$PROJECT_DIR$/1.1_List/src/com/zuozhen/list/question.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1136">
           <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -769,7 +669,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42529">
           <caret line="599" column="6" lean-forward="false" selection-start-line="599" selection-start-column="6" selection-end-line="599" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -777,10 +676,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9088">
           <caret line="155" column="11" lean-forward="false" selection-start-line="155" selection-start-column="11" selection-end-line="155" selection-end-column="11" />
-          <folding>
-            <element signature="e#5671#5672#0" expanded="true" />
-            <element signature="e#5695#5696#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -799,45 +694,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32163">
           <caret line="490" column="13" lean-forward="false" selection-start-line="490" selection-start-column="13" selection-end-line="490" selection-end-column="13" />
-          <folding>
-            <element signature="e#6252#6253#0" expanded="true" />
-            <element signature="e#6320#6321#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/First_Collection/src/com/zuozhen/collection/Person.java">
+    <entry file="file://$PROJECT_DIR$/1_Collection/src/com/zuozhen/collection/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1775">
           <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
           <folding>
-            <element signature="e#403#404#0" expanded="true" />
-            <element signature="e#430#431#0" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-            <element signature="e#502#503#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#555#556#0" expanded="true" />
-            <element signature="e#590#591#0" expanded="true" />
-            <element signature="e#620#621#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="false" />
+            <element signature="e#430#431#0" expanded="false" />
+            <element signature="e#470#471#0" expanded="false" />
+            <element signature="e#502#503#0" expanded="false" />
+            <element signature="e#529#530#0" expanded="false" />
+            <element signature="e#555#556#0" expanded="false" />
+            <element signature="e#590#591#0" expanded="false" />
+            <element signature="e#620#621#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Third_Set/src/com/zuozhen/set/SetTest.java">
+    <entry file="file://$PROJECT_DIR$/1.2_Set/src/com/zuozhen/set/SetTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="213">
           <caret line="3" column="2" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/First_Collection/src/com/zuozhen/collection/CollectionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_Collection/src/com/zuozhen/collection/CollectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -855,46 +746,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/First_Collection/src/com/zuozhen/collection/Person.java">
+    <entry file="file://$PROJECT_DIR$/1_Collection/src/com/zuozhen/collection/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1775">
           <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
           <folding>
-            <element signature="e#403#404#0" expanded="true" />
-            <element signature="e#430#431#0" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-            <element signature="e#502#503#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#555#556#0" expanded="true" />
-            <element signature="e#590#591#0" expanded="true" />
-            <element signature="e#620#621#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="false" />
+            <element signature="e#430#431#0" expanded="false" />
+            <element signature="e#470#471#0" expanded="false" />
+            <element signature="e#502#503#0" expanded="false" />
+            <element signature="e#529#530#0" expanded="false" />
+            <element signature="e#555#556#0" expanded="false" />
+            <element signature="e#590#591#0" expanded="false" />
+            <element signature="e#620#621#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/First_Collection/src/com/zuozhen/collection/CollectionTest.java">
+    <entry file="file://$PROJECT_DIR$/1_Collection/src/com/zuozhen/collection/CollectionTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/First_Collection/src/com/zuozhen/collection/Person.java">
+    <entry file="file://$PROJECT_DIR$/1_Collection/src/com/zuozhen/collection/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1775">
           <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
           <folding>
-            <element signature="e#403#404#0" expanded="true" />
-            <element signature="e#430#431#0" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-            <element signature="e#502#503#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#555#556#0" expanded="true" />
-            <element signature="e#590#591#0" expanded="true" />
-            <element signature="e#620#621#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="false" />
+            <element signature="e#430#431#0" expanded="false" />
+            <element signature="e#470#471#0" expanded="false" />
+            <element signature="e#502#503#0" expanded="false" />
+            <element signature="e#529#530#0" expanded="false" />
+            <element signature="e#555#556#0" expanded="false" />
+            <element signature="e#590#591#0" expanded="false" />
+            <element signature="e#620#621#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -906,13 +795,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/First_Collection/src/com/zuozhen/collection/CollectionTest.java">
+    <entry file="file://$PROJECT_DIR$/1_Collection/src/com/zuozhen/collection/CollectionTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -923,13 +810,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/First_Collection/src/com/zuozhen/collection/CollectionTest.java">
+    <entry file="file://$PROJECT_DIR$/1_Collection/src/com/zuozhen/collection/CollectionTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -940,13 +825,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/First_Collection/src/com/zuozhen/collection/CollectionTest.java">
+    <entry file="file://$PROJECT_DIR$/1_Collection/src/com/zuozhen/collection/CollectionTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -978,37 +861,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/First_Collection/src/com/zuozhen/collection/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1775">
-          <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-          <folding>
-            <element signature="e#403#404#0" expanded="true" />
-            <element signature="e#430#431#0" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-            <element signature="e#502#503#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#555#556#0" expanded="true" />
-            <element signature="e#590#591#0" expanded="true" />
-            <element signature="e#620#621#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Second_List/src/com/zuozhen/list.java" />
-    <entry file="file://$PROJECT_DIR$/First_Collection/src/com/zuozhen/collection/IteratorTest.java">
+    <entry file="file://$PROJECT_DIR$/1_Collection/src/com/zuozhen/collection/IteratorTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="355">
           <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.1_List/src/com/zuozhen/list/ListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="9" column="40" lean-forward="false" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.1_List/src/com/zuozhen/list/question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1136">
+          <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk1.8/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="599" column="6" lean-forward="false" selection-start-line="599" selection-start-column="6" selection-end-line="599" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk1.8/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="155" column="11" lean-forward="false" selection-start-line="155" selection-start-column="11" selection-end-line="155" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="jar://D:/jdk1.8/src.zip!/java/util/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64610">
+        <state relative-caret-position="1469">
           <caret line="969" column="0" lean-forward="false" selection-start-line="969" selection-start-column="0" selection-end-line="979" selection-end-column="5" />
           <folding>
             <element signature="e#11209#11210#0" expanded="true" />
@@ -1017,70 +917,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/jdk1.8/src.zip!/java/util/Vector.java">
+    <entry file="jar://D:/jdk1.8/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9088">
-          <caret line="155" column="11" lean-forward="false" selection-start-line="155" selection-start-column="11" selection-end-line="155" selection-end-column="11" />
+        <state relative-caret-position="759">
+          <caret line="480" column="0" lean-forward="true" selection-start-line="480" selection-start-column="0" selection-end-line="480" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_Collection/src/com/zuozhen/collection/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1469">
+          <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
           <folding>
-            <element signature="e#5671#5672#0" expanded="true" />
-            <element signature="e#5695#5696#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="false" />
+            <element signature="e#430#431#0" expanded="false" />
+            <element signature="e#470#471#0" expanded="false" />
+            <element signature="e#502#503#0" expanded="false" />
+            <element signature="e#529#530#0" expanded="false" />
+            <element signature="e#555#556#0" expanded="false" />
+            <element signature="e#590#591#0" expanded="false" />
+            <element signature="e#620#621#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/jdk1.8/src.zip!/java/util/List.java">
+    <entry file="file://$PROJECT_DIR$/1.2_Set/src/com/zuozhen/set/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40896">
-          <caret line="599" column="6" lean-forward="false" selection-start-line="599" selection-start-column="6" selection-end-line="599" selection-end-column="6" />
+        <state relative-caret-position="994">
+          <caret line="14" column="37" lean-forward="false" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/jdk1.8/src.zip!/java/util/ArrayList.java">
+    <entry file="file://$PROJECT_DIR$/1.2_Set/src/com/zuozhen/set/SetTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32163">
-          <caret line="490" column="13" lean-forward="false" selection-start-line="490" selection-start-column="13" selection-end-line="490" selection-end-column="13" />
-          <folding>
-            <element signature="e#6252#6253#0" expanded="true" />
-            <element signature="e#6320#6321#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Second_List/src/com/zuozhen/list/question.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1136">
-          <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        <state relative-caret-position="897">
+          <caret line="71" column="39" lean-forward="false" selection-start-line="71" selection-start-column="39" selection-end-line="71" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/First_Collection/src/com/zuozhen/collection/CollectionTest.java">
+    <entry file="file://$PROJECT_DIR$/1_Collection/src/com/zuozhen/collection/CollectionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1420">
-          <caret line="23" column="3" lean-forward="false" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="852">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="31" selection-end-column="57" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Second_List/src/com/zuozhen/list/ListTest.java">
+    <entry file="file://$PROJECT_DIR$/2_Map/src/com/zuozhen/map/MapTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5524">
-          <caret line="9" column="40" lean-forward="false" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Third_Set/src/com/zuozhen/set/SetTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="688">
-          <caret line="20" column="24" lean-forward="false" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        <state relative-caret-position="2033">
+          <caret line="33" column="31" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
           <folding />
         </state>
       </provider>

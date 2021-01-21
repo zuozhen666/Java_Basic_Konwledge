@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/1.1_List/1.1_List.iml" filepath="$PROJECT_DIR$/1.1_List/1.1_List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.2_Set/1.2_Set.iml" filepath="$PROJECT_DIR$/1.2_Set/1.2_Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_Collection/1_Collection.iml" filepath="$PROJECT_DIR$/1_Collection/1_Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_Map/2_Map.iml" filepath="$PROJECT_DIR$/2_Map/2_Map.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collection.iml" filepath="$PROJECT_DIR$/Collection.iml" />
-      <module fileurl="file://$PROJECT_DIR$/First_Collection/First_Collection.iml" filepath="$PROJECT_DIR$/First_Collection/First_Collection.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Second_List/Second_List.iml" filepath="$PROJECT_DIR$/Second_List/Second_List.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Third_Set/Third_Set.iml" filepath="$PROJECT_DIR$/Third_Set/Third_Set.iml" />
     </modules>
   </component>
 </project>

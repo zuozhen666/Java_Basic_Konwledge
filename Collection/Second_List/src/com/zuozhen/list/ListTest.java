@@ -7,6 +7,7 @@ import java.util.LinkedList;
 import java.util.Vector;
 
 /**
+ * //一，Collection接口：单列数据，定义了存储一组对象的方法的集合
  * /---List接口：元素有序、可重复的集合  《“动态”数组》
  * /---ArrayList、LinkedList、Vector
  * 三个具体实现类的异同：

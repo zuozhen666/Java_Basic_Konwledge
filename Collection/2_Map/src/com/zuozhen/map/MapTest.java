@@ -39,5 +39,10 @@ public class MapTest {
     4.jdk7：数组+链表    jdk8：数组+链表+红黑树
     当数组某一个索引上的元素以链表形式存在的数据个数>8且当前数组长度>64时，
     此时索引位置上的所有数据改为使用红黑树存储
+
+    LinkedHashMap底层实现原理：
+    内部类：Entry[]
+    HashMap内部类：Node[]
      */
+
 }

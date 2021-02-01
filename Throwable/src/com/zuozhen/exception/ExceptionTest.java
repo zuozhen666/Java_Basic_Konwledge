@@ -46,6 +46,26 @@ public class ExceptionTest {
         //还是要用try-catch-finally解决
 
      */
+
+    /*
+    方法重写的异常规则：抛出的异常不大于父类被重写方法抛出的异常类型
+     */
+    /*
+    两种方法的选择问题：
+        1.如果父类中被冲重写的方法没有用throws的方法处理异常，那么子类重写的方法中有异常就只能使用try-catch-finally；
+        2.执行的方法，先后调用了另外几个方法，建议被执行方法采用throws，本方法采用try-catch-finally，懂自懂。
+     */
+    /*
+
+    手动生成一个异常对象并抛出(throw)
+
+     */
+    /*
+    自定义异常类
+    1.继承于现有的异常结构，RunTimeException...
+    2.提供全局常量：serivalVersionUID（序列号）
+    3.提供重载的构造器
+     */
     public static void main(String[] args) {
     }
 }

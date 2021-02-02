@@ -14,6 +14,14 @@ public class ThreadMethodTest {
      * isAlive():判断当前线程是否存活
      *
      * */
+    /*
+    线程优先级：
+    1.三个常量1，5，10    MIN_PRIORITY,   NORM_PRIORITY(默认),   MAX_PRIORITY
+    2.获取和设置优先级
+    getPriority():获取线程的优先级
+    setPriority(int p):设置线程的优先级
+
+     */
     public static void main(String[] args) {
         //主线程命名
         Thread.currentThread().setName("主线程");

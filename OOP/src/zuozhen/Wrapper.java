@@ -47,6 +47,10 @@ public class Wrapper {
          */
         Integer in1 = 21;
         System.out.println(in1 + 1);//22
+        int i = 0;
+        Integer j = new Integer(0);
+        System.out.println(i == j);//true
+        System.out.println(j.equals(i));//true
     }
 
     @Test

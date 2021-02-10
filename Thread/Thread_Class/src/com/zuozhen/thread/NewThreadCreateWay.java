@@ -1,15 +1,12 @@
 package com.zuozhen.thread;
 
-import java.util.concurrent.Callable;
-import java.util.concurrent.ExecutionException;
-import java.util.concurrent.FutureTask;
+import java.util.concurrent.*;
 
 public class NewThreadCreateWay {
     /*
     新的线程创建方式：
     way3：实现Callable接口(call方法)
         功能更加强大，可以有返回值，可以抛出异常，可以支持泛型...
-    way4：使用线程池
      */
     public static void main(String[] args) {
         NewThread newThread = new NewThread();
@@ -25,6 +22,11 @@ public class NewThreadCreateWay {
         } catch (ExecutionException e) {
             e.printStackTrace();
         }
+        /*
+        way4：使用线程池
+         */
+        ExecutorService executorService = Executors.newFixedThreadPool(10);
+        //...
     }
 }
 

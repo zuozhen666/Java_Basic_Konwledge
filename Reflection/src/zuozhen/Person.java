@@ -1,6 +1,6 @@
 package zuozhen;
 
-public class Person {
+public class Person<T> {
     public String name;
     private int age;
 
@@ -38,5 +38,9 @@ public class Person {
 
     private void show() {
         System.out.println("i'm a person");
+    }
+
+    public void eat() {
+        System.out.println("Person eat");
     }
 }

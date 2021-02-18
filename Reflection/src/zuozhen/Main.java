@@ -15,6 +15,7 @@ public class Main {
     @Test
     public void test1() throws NoSuchMethodException, IllegalAccessException, InvocationTargetException, InstantiationException, NoSuchFieldException {
         Class c = Person.class;
+        //通过反射调用构造器
         Constructor constructor = c.getConstructor(String.class, int.class);
         Object tom = constructor.newInstance("Tom", 12);
         System.out.println(tom);//Person{name='Tom', age=12}

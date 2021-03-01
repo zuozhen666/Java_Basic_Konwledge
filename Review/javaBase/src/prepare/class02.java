@@ -35,11 +35,11 @@ public class class02 {
     new String("abc")
     会创建两个字符串对象（前提Spring Pool中还没有"abc"字符串对象）
     1.编译时期会在String Pool中创建一个字符串对象，指向"abc"字符串字面量
-    2.new方式会在队中创造一个字符串对象。
+    2.new方式会在堆中创造一个字符串对象。
      */
     @Test
     public void test() {
-        String s = new String("abc");
+        //String s = new String("abc");
 /*
     源码：new会在堆中创建一个字符串对象，
     然后将String Pool中的字符串对象作为String构造器函数的参数
@@ -48,7 +48,16 @@ public class class02 {
             this.hash = original.hash;
         }
         */
-        StringBuilder stringBuilder = new StringBuilder();
-        StringBuffer stringBuffer = new StringBuffer();
+/*
+jdk7对intern操作和常量池的修改(?)
+1.String常量池从Perm到JavaHeap
+2.调用intern时，如果存在堆中的对象，会直接保存对象的引用，而不会重新创建对象
+
+     * When the intern method is invoked, if the pool already contains a
+     * string equal to this {@code String} object as determined by
+     * the {@link #equals(Object)} method, then the string from the pool is
+     * returned. Otherwise, this {@code String} object is added to the
+     * pool and a reference to this {@code String} object is returned.
+ */
     }
 }

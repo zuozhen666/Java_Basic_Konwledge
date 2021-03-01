@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Review.iml" filepath="$PROJECT_DIR$/Review.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaBase/javaBase.iml" filepath="$PROJECT_DIR$/javaBase/javaBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaConcurrency/javaConcurrency.iml" filepath="$PROJECT_DIR$/javaConcurrency/javaConcurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaIO/javaIO.iml" filepath="$PROJECT_DIR$/javaIO/javaIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaJVM/javaJVM.iml" filepath="$PROJECT_DIR$/javaJVM/javaJVM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaSTL/javaSTL.iml" filepath="$PROJECT_DIR$/javaSTL/javaSTL.iml" />
+    </modules>
+  </component>
+</project>
